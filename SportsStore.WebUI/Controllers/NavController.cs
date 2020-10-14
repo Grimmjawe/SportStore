@@ -2,6 +2,7 @@
 using System.Web.Mvc;
 using SportsStore.Domain.Abstract;
 using System.Linq;
+
 namespace SportsStore.WebUI.Controllers
 {
     public class NavController : Controller
